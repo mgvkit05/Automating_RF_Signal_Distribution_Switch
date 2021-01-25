@@ -22,3 +22,4 @@ All ports in the distribution panel can be controlled.
 - Time
 
 ## Diagram:
+![2](https://user-images.githubusercontent.com/77254370/105682780-b7bb8000-5ea7-11eb-813e-f3e47a2a84f3.JPG)
