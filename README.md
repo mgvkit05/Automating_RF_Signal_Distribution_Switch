@@ -21,7 +21,8 @@ All ports in the distribution panel can be controlled.
 - Telnetlib 
 - Time
 
-## Workflow:
+## Diagram:
 
+![final](https://user-images.githubusercontent.com/77254370/105669867-ea0fb200-5e94-11eb-8f2d-d0b07d616838.JPG)
 
 
