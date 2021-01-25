@@ -24,6 +24,4 @@ All ports in the distribution panel can be controlled.
 ## Workflow:
 
 
-![final](https://user-images.githubusercontent.com/77254370/105653665-3648fb00-5e71-11eb-94d2-b7552d5ee475.JPG)
-
 
