@@ -6,7 +6,7 @@ The goal of this script is to control the Programmable Attenuators of the RF Dis
 The programmable Attenuators can increase or decrease the output power level of LTE signals. 
  
 
-## Problems: 
+## Context: 
 1. User can set the desired signal power levels manually on the distribution switch but the manual approach becomes very tedious when there is a need for
 repeatedly adjusting the power levels to simulate various mobility related scenarios in LTE. 
 2. The programmable attenuators are sensitive and adjusting them manually does not provide the desired signal level.
