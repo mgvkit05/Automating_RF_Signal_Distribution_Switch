@@ -14,7 +14,7 @@ repeatedly adjusting the power levels to simulate various mobility related scena
 ## Script description
 The script addresses the problems by eliminating the need for manually interacting with the programmable attenuators. 
 Desired Power levels can be configured witin the script.
-All ports in the distribution switch can be controlled.
+All ports in the distribution panel can be controlled.
 
 ## Tools:
 - Python Programming
