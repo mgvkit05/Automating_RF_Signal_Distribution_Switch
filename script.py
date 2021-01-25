@@ -1,5 +1,5 @@
 import telnetlib, time
-#from telnetlib import OSError
+#from telnetlib import OSError.
 
 HOST = '155.165.240.52'
 tel = telnetlib.Telnet(HOST, 23)
